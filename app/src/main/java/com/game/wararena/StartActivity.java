@@ -10,6 +10,8 @@ public class StartActivity extends Activity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
+
+        String test = "dssd";
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_start);
     }
